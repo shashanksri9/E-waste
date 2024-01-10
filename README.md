@@ -43,7 +43,7 @@
 
 Check out the live demo of the project:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://rohit054.github.io/E-Waste-Management-Website-Using-HTML-CSS-JS/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://shashanksri9.github.io/E-Waste-Management-Website-Using-HTML-CSS-JS/)
 
 Click on the icon above to access the live demo and experience the project in action.
 
@@ -66,11 +66,9 @@ Mention the license under which your project is distributed. Provide a link to t
  -->
 ## ⭐️ Contact
 
-You can reach out to me on LinkedIn:
+You can reach out :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-yadav-842317251)
-
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:rohit.yadav2020@vitbhopal.ac.in)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:shashank9ul@gmail.com)
 
 Feel free to connect with me to discuss any questions, suggestions, or collaborations related to this project.
 
